@@ -2,4 +2,5 @@
 .swp
 .directory
 *.db
-*.ini
+*.in
+build/*
