@@ -192,7 +192,13 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-#'preamble': '',
+#'preamble': '\usepackage[spanish]{babel}',
+
+# babel spanish
+'babel': '\\usepackage[spanish]{babel}',
+
+# fancy style
+#'fncychap': '\usepackage{../../source/latex/fncychap}',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
