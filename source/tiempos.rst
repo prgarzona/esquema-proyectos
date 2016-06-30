@@ -1,0 +1,21 @@
+Desarrollo del proyecto
+=======================
+
+Cómo se trabajará
+-----------------
+
+Explicación de cómo se trabajará la aplicación, como ciclo de vida, prototipos,
+etc.
+
+Actividades a realizar
+----------------------
+
+Listado de actividades importantes que el cliente debe de tener en cuenta, como por
+ejemplo, el análisis, la implementación, capacitaciones, etc.
+
+Tabla de tiempos y costos
+-------------------------
+
+Se crea una tabla de tiempos estipulados de desarrollo al igual que los costos,
+pero en el caso del proyecto solamente se colocarán los tiempos, ya que la
+evaluación de costos se verá en otros cursos mas adelante.
