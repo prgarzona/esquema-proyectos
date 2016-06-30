@@ -25,3 +25,10 @@ Tabla de tiempos y costos
 Se crea una tabla de tiempos estipulados de desarrollo al igual que los costos,
 pero en el caso del proyecto solamente se colocarán los tiempos, ya que la
 evaluación de costos se verá en otros cursos mas adelante.
+
+Condiciones
+-----------
+
+Condiciones legales, administrativas o de otra índole que el cliente debe de
+tomar en cuenta para la realización del proyecto, como fechas de pago, licencias,
+requerimientos, etc.

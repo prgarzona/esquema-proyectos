@@ -54,3 +54,5 @@ En algunas distribuciones de Linux, deberá instalar el comando *make* para que 
 make html
 make latexpdf
 ```
+
+En windows el comando puede cambiar a **make.md**
