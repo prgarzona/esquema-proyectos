@@ -13,6 +13,12 @@ Actividades a realizar
 Listado de actividades importantes que el cliente debe de tener en cuenta, como por
 ejemplo, el análisis, la implementación, capacitaciones, etc.
 
+Entregables
+-----------
+
+Se listan y se describen cada uno de los elementos que se entregarán al final
+del proyecto, como código fuente, manuales, etc.
+
 Tabla de tiempos y costos
 -------------------------
 
