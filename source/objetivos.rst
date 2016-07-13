@@ -1,60 +1,32 @@
-"Nombre del proyecto"
+"Agenda Cultural"
 ====================
 
-Sustituya con el nombre del proyecto.
+
 
 
 Breve historia del proyecto
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
-
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
-
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+La Casa de la Cultura de Occidente es un centro de carácter cultural, situado en el municipio de Quetzaltenango. El cual se necesita un sistema de apoyo para gestionar los artistas locales e internacionales, dada la situacion que no presentaban una eficaz herramienta de contacto y/o gestion de los artistas que presentan su trabajo en esta cuidad; Dicha herramienta es necesita para poder aumentar la eficacia de la interaccion y gestion del usuario (Artista) con el publico en general.
 
 
-Empresa a la que se dirige el sistema
+Casa de la Cultura de Occidente
 -------------------------------------
 
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
 
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
-
+Es una entidad que proporciona espacios culturales a través de los cuales se busca iniciar, fortalecer y fomentar el trabajo cultural para la generación y goce de las distintas manifestaciones culturales, difunden la cultura local, regional y universal.
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+La casa de la cultura es un centro de carácter cultural el cual su mision es promover, fortalecer y fomentar la cultura local, a través de la participación de los artistas, utilizando como Herramienta un sistema que su fin es crear espacios (eventos) para las distintas manifestaciones culturales, contribuyendo así a la identidad cultural nacional, como a su vez dar a conocer todos los talentos humanos.
 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
+	•Que los usuarios se sientan a gusto usandola, que disfruten estar navegando en ella.
+	•Permitir establecer relaciones con artistas que comparten los mismos intereses, así como una constante actualizacion del estado del mismo.
+	•Estar en una comunicación con el artista y con el trabajo que realiza.
+	•Poder buscar artistas o publicacioens de interes, y poder ponerse en contacto.
 
-* Specific
-
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo

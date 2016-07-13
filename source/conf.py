@@ -30,8 +30,10 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
+    'rst2pdf.pdfbuilder',
 ]
+
+pdf_documents = [('index', u'Garzona', u'Agenda Cultura', u'Pablo Garzona'),]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Nombre"'
-copyright = u'2016, Alumno'
+project = u'Documentación de proyecto "Agenda Cultural"'
+copyright = u'2016, Pablo Raul Garzona Samayoa'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
