@@ -30,3 +30,16 @@ Objetivos del proyecto
 	•Estar en una comunicación con el artista y con el trabajo que realiza.
 	•Poder buscar artistas o publicaciones de interés, y poder ponerse en contacto.
 
+Tareas 
+------
+•	Ayudar a manejar las politicas de la casa de la cultura
+•	Ofrecer un espacio a los artistas para poder postear su trabajo 
+•	Reservar un espacio/evento donde puedan promover la cultura local 
+•	Poder mantener a los usuarios (artistas) ubicados para contactarlos 	facilmente
+•	Que los artistas se den a conocer a travez de su trabajo (difucion del 	   artista)
+•	El usuario no registrado podrá suscribirse y así recibir capsulas 		informativas.
+•	El sitio web debe poder registrar usuarios
+•	Los artistas podrán crear un perfil publicar trabajos, reservar 		eventos y darse a conocer a usuarios no registrados
+•	El administrador podrá crear capsulas informativas para los usuarios 
+
+

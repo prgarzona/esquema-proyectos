@@ -29,3 +29,9 @@ Diagrama de BD
 --------------
 
 Diagrama de la Base de Datos que requerirá el software.
+
+.. image:: ../BD/BaseDeDatos.png
+  :height: 10cm
+  :width: 10cm
+
+
