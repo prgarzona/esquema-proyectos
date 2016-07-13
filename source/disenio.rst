@@ -5,9 +5,24 @@ Casos de Uso
 ------------
 
 .. image:: ../CasosDeUso/Administrador.png
+ :height: 10cm
+ :width: 10cm
+
 .. image:: ../CasosDeUso/Artista.png
+ :height: 10cm
+ :width: 10cm
+
 .. image:: ../CasosDeUso/UsuarioVisitante.png
-.. image:: ../CasosDeUso/Completo.png
+ :height: 10cm
+ :width: 10cm
+
+ .. image:: ../CasosDeUso/Actividades.png
+  :height: 10cm
+  :width: 10cm
+
+.. image:: ../CasosDeUso/CapsulasInformativas.png
+  :height: 10cm
+  :width: 10cm
 
 
 Diagrama de BD
